@@ -3,7 +3,7 @@ read / write SDRAM of DE-10 Lite with System Console, through SDRAM Controller i
 
 ### Qsys Image
 
-![image](https://user-images.githubusercontent.com/6558862/33639627-9f978d58-da6f-11e7-85e4-fed7591e5b9d.png)
+![image](https://user-images.githubusercontent.com/6558862/34022681-021d3994-e184-11e7-8cb1-aade225dfc8d.png)
 
 ### System Console 
 
